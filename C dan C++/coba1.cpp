@@ -5,7 +5,7 @@ main()
 {
    int a = 7;
    int b = 2;
-   char c[15] = "Muhammad Encep";
+   char c[15] = "Muhammad Rafli";
 
    puts("Nama ");
    puts(c);
